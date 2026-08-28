@@ -6,7 +6,7 @@ use Firetip\SDK\Firetip;
 use Firetip\SDK\FiretipException;
 
 // 3. Define credentials
-$apiKey     = '0d4a4ce97a6e0fe1806aacf5a8caaf32';
+$apiKey     = 'YOURKEY';
 $campaignId = '300';
 //$domainKey  = 'example.com';
 
