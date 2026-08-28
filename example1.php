@@ -11,7 +11,7 @@ require_once 'Firetip.php';
 use Firetip\SDK\Firetip;
 use Firetip\SDK\FiretipException;
 
-$apiKey = '0d4a4ce97a6e0fe1806aacf5a8caaf32';
+$apiKey = 'YOURKEY';
 $client = new Firetip($apiKey, "123");
 
 try {
